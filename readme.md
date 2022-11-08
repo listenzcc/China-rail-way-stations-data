@@ -1,4 +1,4 @@
-# China realway stations data
+# China railway stations data
 
 It has train travelling data and station data.
 
